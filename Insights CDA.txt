@@ -1,0 +1,86 @@
+State wise
+
+top 3 crops as per production in india
+sugarcane
+rice
+wheat
+
+total production of sugarcane is highest among all crops
+Uttar Pradesh is having highest production and cultivation area among all the states
+Maximum production of sugarcane comes throughout the Whole Season
+
+Total production offer rise is second highest among all the crops
+West Bengal is having highest production but cultivation area is higher in Uttar Pradesh
+Maximum production of rice comes with its sown in rainy season
+
+Total production of wheat is 3rd highest among crops
+Uttar Pradesh is having highest production and cultivation area among all the states
+Maximum production of wheat comes when it is winter season
+
+North India is having magazine production among all those zones
+
+District Wise
+
+Top three district to production and cultivation area belongs to Uttar Pradesh
+In every state some district are dominating in production and cultivation area like
+In West Bengal - Murshidadad, Midnapur west, bardaman 
+in utter predesh - muzzfer nagar, kheri, Bijnor
+
+if variety of crops are higher in state doesn't mean Maximum production comes from the same state
+
+Karnataka is having highest count of crops but maximum production comes from other state lower variety of cross belongs from Chhattisgarh
+
+Thirty 8 different types of crops are cultivating in 646 districts of India
+
+Coconut page
+
+coconut is having highest production of India
+North zone is having zero production of coconut
+South Zone is the highest production of coconut
+
+Kerala is having maximum production in South zone which is approximately 75% of total coconut production
+
+Aassam is having maximum production in East Zone
+
+Goa is having maximum production in West zone
+
+Time Series
+
+Sugarcane potato coconut is having highest yield among all crops
+
+Total production and total cultivation area of India is decreasing continuously after 2010
+
+Crop who yield is maximum those crop generally shown in whole year season
+
+Crops whose production is higher are also having higher yield
+
+North Zone has highest production in all year among all zones
+
+Indian territory is having lowest production in all areas over all the zone
+
+South zone is having maximum production in whole year season
+
+North Zone is having maximum production from 1997 to 2003 in whole year season and from year 2003 to 2014 in rainy season
+
+West zone is having highest production in whole year season and west zone is having highest in winter season
+
+Crop Wise
+
+Wheat Rice Pulses are the most cultivated crop among all crop yield of sugarcane banana  in high all seasons
+
+Sugarcane has high yield in rabbi and whole year season 
+crop yield of sugarcane is high among all crops 
+cultivation of sugar cane is less but production is high
+
+Rice production and cultivation is high approximately 84% in rainy season among all crops rice cultivation is high in rainny season but production is second to the sugarcane
+
+Weight production is high approximately 57% in summer season among all the crops
+
+Sugar cane rice wheat has highest production and cultivation in northern zone
+Cultivation of Bajrang pulsar soya bin is also good in north zone
+
+rice production and cultivation is high potato jute sugar cane also has good production in east zone
+
+Sugarcane and cotton has highest cultivation and production in west zone
+
+Maze rise and weight has highest production and cultivated in union teritorys
